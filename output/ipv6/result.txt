@@ -1,15 +1,15 @@
 🕘️更新时间,#genre#
-2026-03-20 07:07:43,https://o11.163189.xyz/stream/tvb/fct/
+2026-03-22 07:06:54,https://o11.163189.xyz/stream/tvb/fct/
 
 🌊港·澳·台,#genre#
 翡翠台,https://o11.163189.xyz/stream/tvb/fct/
 翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
 明珠台,http://r.jdshipin.com/jUx8K
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰资讯,http://php.jdshipin.com:8880/iptv.php?id=fhzx
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
@@ -23,9 +23,9 @@ J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
+CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695505348295131820.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774522531&major_anchor_level=common&sign=a97da9d1b4c332580a0e83b77cdb2206&t_id=037-2026031918553112BD480F88E3000CDAC3-gkb2g7
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
-CETV-2,https://iptv.catvod.com/live.php?id=CETV2
 
 💰央视付费频道,#genre#
 央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
@@ -34,7 +34,6 @@ CETV-2,https://iptv.catvod.com/live.php?id=CETV2
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
-西藏卫视,http://cc02.tv12.xyz/9.m3u8
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 
 ☘️广东频道,#genre#
@@ -90,6 +89,7 @@ CETV-2,https://iptv.catvod.com/live.php?id=CETV2
 新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
 江苏体育,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E4%BD%93%E8%82%B2
 淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
+镇江新闻综合,https://mgtv.ottiptv.cc/mg/639731783.m3u8?userid=5559462299&sign=2bbe927902506a59b45a25bde37e57cb5929518aefa469ec96c17da64d5d508df7e26da5faebc680f9770fdd223f6f4af97ec097a695709afe102cc19c90ef7c549214a01cf55c06dca4c52c279799c425&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 靖江新闻综合,http://ls.qingting.fm/live/23797.m3u8
 
 ☘️辽宁频道,#genre#
@@ -113,7 +113,9 @@ CETV-2,https://iptv.catvod.com/live.php?id=CETV2
 ☘️四川频道,#genre#
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
 旺苍新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8
+松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd
 汶川新闻综合,rtmp://live.iwcmt.cn:1936/live/zhxw
+汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 荥经综合,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
 
@@ -159,6 +161,7 @@ CETV-2,https://iptv.catvod.com/live.php?id=CETV2
 ☘️山西频道,#genre#
 古县综合,https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd
 定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
+平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
 怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd,
 怀仁综合,https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8
 祁县新闻综合,http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8?zshanxd
@@ -195,9 +198,8 @@ CETV-2,https://iptv.catvod.com/live.php?id=CETV2
 🎬电影频道,#genre#
 天映经典,https://o11.163189.xyz/stream/live/ccm/
 天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-无线星河,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
-无线星河,https://cdn6.101.qzz.io/163189/tvbxh
+无线星河,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe
 
 🎥咪咕直播,#genre#
 
@@ -210,7 +212,6 @@ CETV-2,https://iptv.catvod.com/live.php?id=CETV2
 七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966
 中华小当家,https://live.metshop.top/huya/11342413
 猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879
-猫和老鼠,https://live.metshop.top/huya/11352879
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
 经典动漫,https://www.goodiptv.club/yy/22777075
 蜡笔小新,https://live.ottiptv.cc/bilibili/30837590
@@ -223,6 +224,7 @@ CETV-2,https://iptv.catvod.com/live.php?id=CETV2
 🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
+笑傲江湖,http://cdn.jdshipin.com:8880/huya.php?id=26355790
 笑傲江湖,https://live.metshop.top/huya/26355790
 笑傲江湖,https://live.ottiptv.cc/huya/26355790
 鹿鼎记,https://live.ottiptv.cc/yy/28265277
@@ -231,5 +233,5 @@ CETV-2,https://iptv.catvod.com/live.php?id=CETV2
 三国演义,http://cdn.jdshipin.com:8880/huya.php?id=11602081
 新白娘子传奇,https://live.ottiptv.cc/yy/1354490667
 封神榜,http://cdn.jdshipin.com:8880/huya.php?id=29465849
-射雕英雄传,https://live.metshop.top/huya/23824164
 射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164
+射雕英雄传,https://live.metshop.top/huya/23824164
